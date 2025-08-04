@@ -27,10 +27,12 @@ A high-performance and secure authentication microservice using **FastAPI**, **M
 
 ---
 ### Login
-<img width="833" height="857" alt="image" src="https://github.com/user-attachments/assets/9f74c875-5dbd-49d0-bbd7-e21cec584126" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9f74c875-5dbd-49d0-bbd7-e21cec584126" />
+
 ### Register
-<img width="888" height="901" alt="image" src="https://github.com/user-attachments/assets/b922042f-3098-437e-bb12-0fa2eca41921" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/b922042f-3098-437e-bb12-0fa2eca41921" />
+
 ### Authetication Successful 
-<img width="917" height="847" alt="image" src="https://github.com/user-attachments/assets/beed0cc3-aeb1-47a4-b814-477f90019ddc" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/beed0cc3-aeb1-47a4-b814-477f90019ddc" />
 
 
